@@ -38,7 +38,20 @@ Download the script using the provided link, open the terminal and use the comma
 
       python GPXplore_terminal.py --genome_path <reference genome.fasta> --gene_path <gene.fasta> --gff_path <annotation gff file> --output_path output file --upstream_len 100 --downstream_len 100
 
-      
+--genome_path : reference genome file in fasta format
+
+--gene_path : gene sequences for which you want to extract promoter  (this file can have one or more gene sequnce)
+
+--gff_path : Annotation file in gff format
+
+--output_path : output file location where you want to store your results 
+
+--upstream_len 100 : length of upstream sequence 
+
+--downstream_len : length of downstream sequence
+
+
+
       
 ## Developed by:
 ### Dr. Shbana Begam, Scientist
