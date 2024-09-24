@@ -36,6 +36,9 @@ This command open the GUI of GPXplore
      
 Download the script using the provided link, open the terminal and use the command to run the GPXplore
 
+      python GPXplore_terminal.py --genome_path <reference genome.fasta> --gene_path <gene.fasta> --gff_path <annotation gff file> --output_path output file --upstream_len 100 --downstream_len 100
+
+      
       
 ## Developed by:
 ### Dr. Shbana Begam, Scientist
