@@ -50,8 +50,6 @@ Download the script using the provided link, open the terminal and use the comma
 
 --downstream_len : length of downstream sequence
 
-
-
       
 ## Developed by:
 ### Dr. Shbana Begam, Scientist
